@@ -1,0 +1,38 @@
+body {
+    font-family: "helvetica", sans-serif;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(72, 185, 185);
+}
+
+div {
+    align-content: center;
+    margin-left: "auto";
+    margin-right: "auto";
+    margin-top: 50px;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+    object-fit: "cover";
+    border-style: groove;
+}
+
+a {
+    margin-top: 50px;
+    background-color: rgb(84, 159, 161);
+    font-size:xx-large;
+    font-weight: bold;
+    color: red;
+}
+
+a:hover {
+    background-color: whitesmoke;
+}
+
+p {
+    font-size: xx-large;
+    word-wrap: break-word;
+}
